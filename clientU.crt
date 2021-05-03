@@ -1,0 +1,137 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=GT, ST=QZ, L=Quetzaltenango, O=CUNOC, OU=CUNOC, CN=openvpn.exaple.com/name=server/emailAddress=sergiocifuentes1485@gmail.com
+        Validity
+            Not Before: May  3 03:19:20 2021 GMT
+            Not After : May  1 03:19:20 2031 GMT
+        Subject: C=GT, ST=QZ, L=Quetzaltenango, O=CUNOC, OU=CUNOC, CN=clientU/name=server/emailAddress=sergiocifuentes1485@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (4096 bit)
+                Modulus:
+                    00:f0:92:b9:94:6e:68:6b:50:50:d0:d5:77:e3:cc:
+                    5f:b9:40:ed:8d:8f:4a:a1:1a:09:53:a0:d2:10:26:
+                    30:bd:8c:aa:44:29:45:dd:81:6e:43:9b:a7:26:3e:
+                    10:af:55:5d:bb:d2:80:0a:7c:b7:29:fb:80:2b:7e:
+                    2c:cd:7a:e6:da:f2:fd:fa:98:2c:fe:91:0a:80:09:
+                    0b:9f:6c:62:ca:44:2c:85:bb:b5:4d:48:bd:ea:76:
+                    a0:9e:79:de:36:dc:3f:32:f8:64:3d:87:36:67:9f:
+                    dc:ec:4a:2f:9a:82:a0:26:73:a2:4f:06:ee:fa:bf:
+                    61:d4:7a:15:3c:b4:3d:54:6d:a0:f1:3d:67:a7:50:
+                    0c:9c:2e:5c:7c:ed:db:1f:e0:f6:dc:d5:3d:f7:7f:
+                    05:30:74:07:76:ea:c1:bb:d2:9d:02:b8:5c:05:3a:
+                    81:4e:ca:a9:ee:40:ec:34:fd:5d:b9:a4:c0:51:ce:
+                    68:4e:80:fe:09:35:dc:97:b4:d3:6e:a6:90:38:db:
+                    9b:61:b2:2b:e3:2f:7b:07:4f:ba:1f:7c:d2:03:d8:
+                    b0:3f:e7:cb:ac:76:87:ce:a7:bb:dd:07:06:dd:fb:
+                    7e:c9:b0:0e:e7:80:3a:f8:a7:a0:75:23:0c:43:1a:
+                    df:bf:70:72:58:b9:45:8c:74:03:b9:de:b5:78:f3:
+                    6a:bc:23:47:58:ac:12:b2:0d:98:1b:cf:44:ea:4a:
+                    86:a9:cf:d4:85:7b:ed:20:ce:b8:77:d2:bd:a0:ab:
+                    b9:99:98:4e:72:5b:19:f2:b9:a6:16:dd:ce:b9:97:
+                    69:79:7c:d9:b0:b0:24:2d:f9:b3:2c:f3:26:6a:cd:
+                    13:a5:96:4a:59:43:3d:49:d3:9b:31:fe:9a:46:ee:
+                    f8:95:ff:04:b2:48:37:b5:cf:0d:93:19:fc:77:59:
+                    cd:54:df:f2:cb:c6:b5:99:42:af:c1:f5:af:c8:2f:
+                    ee:08:64:7f:0d:62:2f:41:77:63:23:10:3e:07:f9:
+                    2c:28:a4:c5:2f:b0:bd:cf:6b:30:d4:82:98:12:9a:
+                    fc:ce:c2:2a:08:e6:e6:d3:84:b8:e5:49:38:b2:9a:
+                    08:da:15:15:e5:d0:32:80:c1:de:3e:c5:f2:34:59:
+                    64:80:aa:25:ed:ad:8b:76:30:01:3b:f1:c7:73:36:
+                    0a:dc:cd:a4:d7:cd:40:ea:cf:e5:b5:43:3a:ec:45:
+                    87:c2:da:65:52:46:39:8e:dc:e0:f4:9c:34:47:90:
+                    cd:f6:e7:2a:32:ca:09:6a:5b:51:ad:59:1a:b0:41:
+                    bf:5b:04:29:03:dd:23:ed:af:7a:83:0d:2c:ef:4b:
+                    b9:25:79:dd:c4:7a:d6:94:5d:3f:d3:e8:5b:e5:b5:
+                    a5:5a:1d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                7D:DE:A3:16:3C:54:AA:14:CE:60:B4:C3:C3:62:1D:A7:73:60:E5:8C
+            X509v3 Authority Key Identifier: 
+                keyid:BD:40:9D:5F:4E:54:9F:A0:08:5E:66:DA:1A:A1:10:9E:60:74:FD:CC
+                DirName:/C=GT/ST=QZ/L=Quetzaltenango/O=CUNOC/OU=CUNOC/CN=openvpn.exaple.com/name=server/emailAddress=sergiocifuentes1485@gmail.com
+                serial:85:D4:63:B7:F3:DB:BF:31
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         03:bd:99:18:28:36:43:c2:f8:5f:9b:06:4b:6f:3e:4e:8a:f9:
+         14:75:fc:d9:4d:80:21:43:6c:04:0d:ee:47:c9:00:f7:c7:2c:
+         93:f4:b8:07:2d:de:2d:57:10:27:0c:8b:24:1e:50:c0:30:f1:
+         5e:2e:c1:f4:fb:66:82:8d:bf:18:86:8e:39:ec:9c:7c:b2:a1:
+         e5:5b:a1:90:2e:9f:55:a2:7f:61:d3:8e:a0:2a:ce:ca:f9:1e:
+         0c:05:28:db:b9:a9:a6:a4:f7:ad:a6:71:c9:fb:1d:69:17:4c:
+         1e:b5:7c:a2:7b:26:98:0e:7f:58:c7:f3:98:ac:ac:3f:06:b0:
+         14:18:de:d2:ef:d5:63:14:3d:59:5e:fd:10:9f:53:cc:18:83:
+         8e:c4:1d:4f:bf:5f:8c:67:48:be:41:9f:ff:34:9c:a4:59:b4:
+         43:b1:2a:cc:2c:aa:e4:ee:28:0d:f7:b4:76:87:28:4c:12:bc:
+         44:36:50:56:43:a4:e0:bc:4b:0b:66:cb:43:93:e6:5d:ef:02:
+         17:f6:d5:1c:55:45:0c:a3:79:5a:3a:02:4b:f8:6d:a7:f9:f5:
+         68:e0:b7:42:2a:8a:d0:b8:3a:e5:d1:13:7c:7a:26:7f:8d:c8:
+         ed:ea:f4:54:fc:17:ef:25:4c:64:15:36:22:a7:dd:c7:94:2a:
+         28:8f:51:ae:19:b6:bc:c2:c5:27:ea:ee:ad:c2:df:a2:79:3b:
+         43:4a:50:20:f5:33:27:53:85:98:31:37:34:14:40:03:3b:ac:
+         0a:28:09:68:89:49:77:05:0f:5f:2e:a2:79:86:29:5b:e5:47:
+         64:76:e3:0d:09:22:ae:82:7f:a9:fb:34:2c:22:41:38:10:fe:
+         52:fc:a3:d3:cf:14:a2:e7:87:0b:5b:74:2f:b2:2b:25:cd:08:
+         f6:3a:4d:7e:62:67:d8:ae:ef:f4:3b:e1:06:60:13:da:8f:d0:
+         72:80:f8:bc:88:e4:36:3d:0a:a8:88:6e:1a:fd:3a:ac:df:ca:
+         03:30:67:bc:d5:bd:db:b8:29:42:6c:6a:a5:7e:1f:39:09:02:
+         c7:4e:d5:a3:74:84:c8:07:78:0d:69:c7:fd:20:5a:a8:e1:8f:
+         c3:79:20:24:a2:6b:a4:9d:05:f1:f3:b4:b3:f9:f8:bc:39:6b:
+         30:a4:14:b8:fa:68:e5:48:97:3e:f3:de:62:ba:f6:9c:18:41:
+         7f:e1:93:18:d4:bf:d1:7e:81:27:cf:5e:e0:49:a3:15:6e:aa:
+         49:2c:7e:22:38:91:54:6b:e7:7c:c3:e0:49:13:ec:2e:0d:e9:
+         56:a7:8d:9b:9a:59:28:40:96:df:13:b7:09:61:37:90:a7:40:
+         6c:f5:2f:92:24:da:c2:7a
+-----BEGIN CERTIFICATE-----
+MIIHODCCBSCgAwIBAgIBAjANBgkqhkiG9w0BAQUFADCBrzELMAkGA1UEBhMCR1Qx
+CzAJBgNVBAgTAlFaMRcwFQYDVQQHEw5RdWV0emFsdGVuYW5nbzEOMAwGA1UEChMF
+Q1VOT0MxDjAMBgNVBAsTBUNVTk9DMRswGQYDVQQDExJvcGVudnBuLmV4YXBsZS5j
+b20xDzANBgNVBCkTBnNlcnZlcjEsMCoGCSqGSIb3DQEJARYdc2VyZ2lvY2lmdWVu
+dGVzMTQ4NUBnbWFpbC5jb20wHhcNMjEwNTAzMDMxOTIwWhcNMzEwNTAxMDMxOTIw
+WjCBpDELMAkGA1UEBhMCR1QxCzAJBgNVBAgTAlFaMRcwFQYDVQQHEw5RdWV0emFs
+dGVuYW5nbzEOMAwGA1UEChMFQ1VOT0MxDjAMBgNVBAsTBUNVTk9DMRAwDgYDVQQD
+EwdjbGllbnRVMQ8wDQYDVQQpEwZzZXJ2ZXIxLDAqBgkqhkiG9w0BCQEWHXNlcmdp
+b2NpZnVlbnRlczE0ODVAZ21haWwuY29tMIICIjANBgkqhkiG9w0BAQEFAAOCAg8A
+MIICCgKCAgEA8JK5lG5oa1BQ0NV348xfuUDtjY9KoRoJU6DSECYwvYyqRClF3YFu
+Q5unJj4Qr1Vdu9KACny3KfuAK34szXrm2vL9+pgs/pEKgAkLn2xiykQshbu1TUi9
+6nagnnneNtw/MvhkPYc2Z5/c7EovmoKgJnOiTwbu+r9h1HoVPLQ9VG2g8T1np1AM
+nC5cfO3bH+D23NU9938FMHQHdurBu9KdArhcBTqBTsqp7kDsNP1duaTAUc5oToD+
+CTXcl7TTbqaQONubYbIr4y97B0+6H3zSA9iwP+fLrHaHzqe73QcG3ft+ybAO54A6
++KegdSMMQxrfv3ByWLlFjHQDud61ePNqvCNHWKwSsg2YG89E6kqGqc/UhXvtIM64
+d9K9oKu5mZhOclsZ8rmmFt3OuZdpeXzZsLAkLfmzLPMmas0TpZZKWUM9SdObMf6a
+Ru74lf8Eskg3tc8Nkxn8d1nNVN/yy8a1mUKvwfWvyC/uCGR/DWIvQXdjIxA+B/ks
+KKTFL7C9z2sw1IKYEpr8zsIqCObm04S45Uk4spoI2hUV5dAygMHePsXyNFlkgKol
+7a2LdjABO/HHczYK3M2k181A6s/ltUM67EWHwtplUkY5jtzg9Jw0R5DN9ucqMsoJ
+altRrVkasEG/WwQpA90j7a96gw0s70u5JXndxHrWlF0/0+hb5bWlWh0CAwEAAaOC
+AWYwggFiMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVy
+YXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUfd6jFjxUqhTOYLTDw2Idp3Ng5Yww
+geQGA1UdIwSB3DCB2YAUvUCdX05Un6AIXmbaGqEQnmB0/cyhgbWkgbIwga8xCzAJ
+BgNVBAYTAkdUMQswCQYDVQQIEwJRWjEXMBUGA1UEBxMOUXVldHphbHRlbmFuZ28x
+DjAMBgNVBAoTBUNVTk9DMQ4wDAYDVQQLEwVDVU5PQzEbMBkGA1UEAxMSb3BlbnZw
+bi5leGFwbGUuY29tMQ8wDQYDVQQpEwZzZXJ2ZXIxLDAqBgkqhkiG9w0BCQEWHXNl
+cmdpb2NpZnVlbnRlczE0ODVAZ21haWwuY29tggkAhdRjt/PbvzEwEwYDVR0lBAww
+CgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqGSIb3DQEBBQUAA4ICAQADvZkY
+KDZDwvhfmwZLbz5OivkUdfzZTYAhQ2wEDe5HyQD3xyyT9LgHLd4tVxAnDIskHlDA
+MPFeLsH0+2aCjb8Yho457Jx8sqHlW6GQLp9Von9h046gKs7K+R4MBSjbuammpPet
+pnHJ+x1pF0wetXyieyaYDn9Yx/OYrKw/BrAUGN7S79VjFD1ZXv0Qn1PMGIOOxB1P
+v1+MZ0i+QZ//NJykWbRDsSrMLKrk7igN97R2hyhMErxENlBWQ6TgvEsLZstDk+Zd
+7wIX9tUcVUUMo3laOgJL+G2n+fVo4LdCKorQuDrl0RN8eiZ/jcjt6vRU/BfvJUxk
+FTYip93HlCooj1GuGba8wsUn6u6twt+ieTtDSlAg9TMnU4WYMTc0FEADO6wKKAlo
+iUl3BQ9fLqJ5hilb5UdkduMNCSKugn+p+zQsIkE4EP5S/KPTzxSi54cLW3Qvsisl
+zQj2Ok1+YmfYru/0O+EGYBPaj9BygPi8iOQ2PQqoiG4a/Tqs38oDMGe81b3buClC
+bGqlfh85CQLHTtWjdITIB3gNacf9IFqo4Y/DeSAkomuknQXx87Sz+fi8OWswpBS4
++mjlSJc+895iuvacGEF/4ZMY1L/RfoEnz17gSaMVbqpJLH4iOJFUa+d8w+BJE+wu
+DelWp42bmlkoQJbfE7cJYTeQp0Bs9S+SJNrCeg==
+-----END CERTIFICATE-----
